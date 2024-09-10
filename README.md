@@ -69,7 +69,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=danielcdz&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=danielcdz)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=danielcdz&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 
