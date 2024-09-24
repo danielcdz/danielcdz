@@ -14,16 +14,21 @@
 	
 ## <picture><img src = "https://github.com/othneildrew/Best-README-Template/blob/main/images/logo.png" width = 50px></picture> **About me**
 
-<br>
+<be>
 
-- A passionate Software Engineer
-- Web3 and Blockchain explorer
-- OSS Contributor
-- Over 4 years of experience working with multiple backend-frontend technologies
-- Love to learn new things
-- Open Mind
-- Experience creating and building Data Pipelines
-- Honest, kind, responsible and organized
+
+I’m a dedicated Software Engineer with over 4 years of experience, exploring the realms of Web3 and Blockchain technology. As an OSS contributor, I thrive on giving back to the community while continually expanding my skill set across a diverse range of backend and frontend technologies.
+
+I’m passionate about learning, with an open-minded approach to solving complex problems. I have hands-on experience in designing and building robust data pipelines, and I take pride in being honest, kind, responsible, and well-organized in everything I do.
+
+### Key Highlights
+- 4+ years of professional experience with backend and frontend technologies
+- Web3 and Blockchain enthusiast, exploring decentralized technologies
+- Open-source contributor with a focus on collaborative development
+- Data pipeline expert: Skilled in building scalable, efficient data processing systems
+- Strong learner: Passionate about staying on the cutting edge of new technologies
+- Core values: Honesty, responsibility, kindness, and a high level of organization
+
 
 <br><br>
 
