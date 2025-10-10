@@ -16,18 +16,23 @@
 
 <be>
 
+I’m a passionate Software Engineer with 4+ years of experience building across backend, frontend, and data engineering domains. I’m naturally **curious and constantly exploring new technologies**, from **Web3 and decentralized systems** to **AI-assisted developer workflows**. I don’t just adapt to change — I **seek it out**, always aiming to push my limits with **new challenges and unexplored problem spaces**.
 
-I’m a dedicated Software Engineer with over 4 years of experience, exploring the realms of Web3 and Blockchain technology. As an OSS contributor, I thrive on giving back to the community while continually expanding my skill set across a diverse range of backend and frontend technologies.
+My journey spans from designing **scalable ETL pipelines and automation frameworks**, to contributing to **open-source projects** and experimenting with **smart contracts and blockchain architectures**. I thrive in environments where I can **learn fast, experiment freely, and build with impact**.
 
-I’m passionate about learning, with an open-minded approach to solving complex problems. I have hands-on experience in designing and building robust data pipelines, and I take pride in being honest, kind, responsible, and well-organized in everything I do.
+I strive to be **honest, kind, and reliable**, and I approach every task with both **discipline and creativity**.
 
-### Key Highlights
-- 4+ years of professional experience with backend and frontend technologies
-- Web3 and Blockchain enthusiast, exploring decentralized technologies
-- Open-source contributor with a focus on collaborative development
-- Data pipeline expert: Skilled in building scalable, efficient data processing systems
-- Strong learner: Passionate about staying on the cutting edge of new technologies
-- Core values: Honesty, responsibility, kindness, and a high level of organization
+<be>
+
+### 🚀 Key Highlights
+
+* **4+ years of hands-on experience** across backend, frontend, and cloud infrastructure
+* **Data Engineering & ETL specialist** — skilled at building scalable, automated data processing systems
+* **Web3 & Blockchain explorer**, actively contributing to decentralized tech and open ecosystems
+* **Open-source collaborator**, contributing to tooling and infrastructure across global teams
+* **AI-powered problem solver**, experienced using tools like Cursor, Claude Code, and ChatGPT to accelerate development
+* **Driven by curiosity** — always learning, experimenting, and embracing new technical challenges
+* **Core values:** Responsibility, transparency, kindness, and relentless self-improvement
 
 
 <br><br>
